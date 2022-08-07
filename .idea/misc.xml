@@ -4,10 +4,16 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/hp/AndroidStudioProjects/GDSCTaskApp/app/src/main/res/drawable/grad_style.xml" value="0.2425" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/GDSCTaskApp/app/src/main/res/drawable/grad_style_left.xml" value="0.2425" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/GDSCTaskApp/app/src/main/res/drawable/grad_style_right.xml" value="0.2425" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/GDSCTaskApp/app/src/main/res/drawable/rnd_view.xml" value="0.216" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/GDSCTaskApp/app/src/main/res/layout-v28/activity_introduction_screen.xml" value="0.2671875" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/GDSCTaskApp/app/src/main/res/layout/activity_introduction_screen.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/GDSCTaskApp/app/src/main/res/layout/activity_login_screen.xml" value="0.2682291666666667" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/GDSCTaskApp/app/src/main/res/layout/activity_main.xml" value="0.2682291666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/GDSCTaskApp/app/src/main/res/layout/activity_sign_up_screen.xml" value="0.2682291666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/GDSCTaskApp/app/src/main/res/layout/activity_splash.xml" value="0.2682291666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/GDSCTaskApp/app/src/main/res/layout/activity_welcome_screen.xml" value="0.2682291666666667" />
       </map>
     </option>
   </component>
