@@ -5,7 +5,7 @@
     <string name="username">Enter username</string>
     <string name="pass">Password</string>
     <string name="confirmPass">Confirm Password</string>
-    <string name="forgetPass">Recovery Password</string>
+    <string name="forgetPass">Forget Password</string>
     <string name="continueWith">Or continue with</string>
     <string name="signIn">Sign In</string>
     <string name="member">Not a member?</string>
