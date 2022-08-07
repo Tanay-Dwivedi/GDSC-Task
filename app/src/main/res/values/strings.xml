@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">GDSC Task App</string>
+    <string name="hello">Hello Again!</string>
+    <string name="welcome">Welcome back you\'ve been missed!</string>
+    <string name="username">Enter username</string>
+    <string name="pass">Password</string>
+    <string name="forgetPass">Recovery Password</string>
+    <string name="continueWith">Or continue with</string>
+
 </resources>
